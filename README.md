@@ -9,6 +9,8 @@ We also show how Mayhem can verify that the vulnerability is fixed
 by replaying the PoV -- and an improved test suite! -- on 
 lighttpd 1.4.52.
 
+Paul added a bug.
+
 ## Branches
   * 'main' branch (default) corresponds to lighttpd 1.4.15, which is vulnerable
   * 'vulnerable' branch corresponds to lighttpd 1.4.15 (same as main), which is vulnerable
