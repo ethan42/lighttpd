@@ -13,4 +13,3 @@ lighttpd 1.4.52.
   * 'main' branch (default) corresponds to lighttpd 1.4.15, which is vulnerable
   * 'vulnerable' branch corresponds to lighttpd 1.4.15 (same as main), which is vulnerable
   * 'fixed' branch corresponds to lighttpd 1.4.52, which fixes the vulnerability
-
